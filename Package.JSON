@@ -1,0 +1,14 @@
+{
+  "name": "rssb-watch-cmt-music-awards-2023-live-stream-online-watching-at-home-us",
+  "version": "1.2.2",
+  "description": "waahere-too-watch-2023-cmt-music-awards-live-stream-omline.us",
+  "main": "index.js",
+  "scripts": {
+    "Package": "echo \test specified\" && exit 1"
+  },
+  "author": "hido",
+  "license": "ISC",
+  "dependencies": {
+    "user": "^0.0.0"
+  }
+}
